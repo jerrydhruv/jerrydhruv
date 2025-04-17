@@ -16,8 +16,11 @@ jerrydhruv/jerrydhruv is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+## 🔍 Tool's:
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ff0"><img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=ffe"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ff">
 
+
+### 📈 Github Status:
 ![jerrydhruv's Stats](https://github-readme-stats.vercel.app/api?username=jerrydhruv&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![jerrydhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydhruv&theme=dracula&hide_border=false)
@@ -25,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![jerrydhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrydhruv&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
-## Languages & Tools:
+## 💻 Languages & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerBI-e9b51c?style=flat&logo=powerbi&logoColor=white" />
@@ -42,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-## Connect with Me:
+## 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-sharma1105/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" />
@@ -55,6 +58,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-## Profile Viewers
+## Profile Viewers:
 ![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
 
