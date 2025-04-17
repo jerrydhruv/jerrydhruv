@@ -35,3 +35,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
+## Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhruv-sharma1105/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" />
+  </a>
+</p>
+
+
