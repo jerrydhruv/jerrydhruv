@@ -1,6 +1,6 @@
-### Hi There I'm Dhruv Sharma👋
-### 😎
-### ^_^
+## Hi There I'm Dhruv Sharma👋
+## 😎
+## ^_^
 
 ## 💫 ABOUT ME:
 - 👋 Hi, I’m @jerrydhruv
