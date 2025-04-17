@@ -1,3 +1,5 @@
+Hi There I'm Dhruv
+
 - 👋 Hi, I’m @jerrydhruv
 - 👀 I’m interested in ... DSA, learning more language, and my interest in creativites and more about curiosity in learn about languages creative writing and more etc.
 - 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
