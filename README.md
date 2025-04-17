@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📈 Github Status:
-![jerrydhruv's Stats](https://github-readme-stats.vercel.app/api?username=jerrydhruv&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![jerrydhruv's Stats](https://github-readme-stats.vercel.app/api?username=jerrydhruv&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![jerrydhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydhruv&theme=dracula&hide_border=false)
+![jerrydhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydhruv&theme=radical&hide_border=true)
 
-![jerrydhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrydhruv&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![jerrydhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrydhruv&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 💻 Languages & Tools:
