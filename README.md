@@ -58,6 +58,16 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+## 📩 Contact Me:
+<p align="left">
+  <a href="mailto:dhruvsharma0511@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="mailto:dhruvsharmw9@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ## Profile Viewers:
 ![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
 
