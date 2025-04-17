@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ![jerrydhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrydhruv&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
+
 ## Languages & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -31,15 +32,26 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
 
 ## Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-sharma1105/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
+  <a href="https://www.instagram.com/officialjerrydhruvsharma/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
+
+## Profile Viewers
+![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
 
