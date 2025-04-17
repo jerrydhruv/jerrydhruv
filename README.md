@@ -50,8 +50,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/officialjerrydhruvsharma/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://teams.live.com/meet/9390137136991?p=tlvEDCXu0WM9rlABcB" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  </a>
 </p>
-
 
 ## Profile Viewers
 ![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
