@@ -1,6 +1,15 @@
-## Hi There I'm Dhruv Sharma👋
+## 👾 Hi There I'm Dhruv Sharma👋
+Hi I'm Computer Application Student.<br>
+I'm a Good learner and I have majored writing skills.<br>
+And I have creativity for every work like copy-paste writing and more related in IT field.<br>
+I have to speaking skills. 
+
 ## 😎
+I have to like meet new person's any type of related work profession.<br>
+I like to listing music and watching moveis.
+
 ## ^_^
+My interest in creativites and more about curiosity in learn about languages creative writing and more etc.
 
 ## 💫 ABOUT ME:
 - 👋 Hi, I’m @jerrydhruv
@@ -68,6 +77,12 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-## Profile Viewers:
+## 👀 Profile Viewers:
 ![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
 
+## 📄 My Resume:
+<p align="left">
+  <a href="https://www.canva.com/design/DAGf-9B8hdg/gNXDqrxOM4q1dR8QzwtnMg/view?utm_content=DAGf-9B8hdg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3e022b619" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Resume-2E8B57?style=for-the-badge&logo=canva&logoColor=white" />
+  </a>
+</p>
