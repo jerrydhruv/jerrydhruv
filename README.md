@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![jerrydhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydhruv&theme=radical&hide_border=true)
 
 ![jerrydhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrydhruv&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 💻 Languages & Tools:
@@ -52,6 +53,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🌐 Connect with Me:
@@ -65,7 +67,11 @@ You can click the Preview link to take a look at your changes.
   <a href="https://teams.live.com/meet/9390137136991?p=tlvEDCXu0WM9rlABcB" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📩 Contact Me:
 <p align="left">
@@ -76,9 +82,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 👀 Profile Viewers:
 ![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📄 My Resume:
 <p align="left">
@@ -86,3 +94,23 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-View%20Resume-2E8B57?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jerrydhruv&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jerrydhruv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jerrydhruv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jerrydhruv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
