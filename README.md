@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerrydhruv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
