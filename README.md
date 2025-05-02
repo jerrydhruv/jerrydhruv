@@ -114,3 +114,10 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=jerrydhruv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🎮 Play My Game:
+<p align="left">
+  <a href="https://highlightedmario.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Play%20Now-ffcc00?style=for-the-badge&logo=super-mario&logoColor=white" />
+  </a>
+</p>
