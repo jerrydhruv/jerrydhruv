@@ -4,7 +4,7 @@ I'm a Good learner and I have majored writing skills.<br>
 And I have creativity for every work like copy-paste writing and more related in IT field.<br>
 I have to speaking skills. 
 
-## 😎
+# 😎
 I have to like meet new person's any type of related work profession.<br>
 I like to listing music and watching moveis.
 
