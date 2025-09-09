@@ -17,7 +17,7 @@ My interest in creativites and more about curiosity in learn about languages cre
 - 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
 - 💞️ I’m looking to collaborate on ... A great opportunities.
 - 📫 How to reach me ... dhruvsharmw9@gmail.com, dhruvsharma0511@outlook.com, https://www.linkedin.com/in/dhruv-sharma-6b4534293/, 
-- 😄 Pronouns: ... Dhruv
+- 😄 Pronouns: ... Dhruv (ध्रुव)
 - ⚡ Fun fact: ...music,movies,game,social media,learning. 
 
 <!---
