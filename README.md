@@ -121,3 +121,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Play%20Now-ffcc00?style=for-the-badge&logo=super-mario&logoColor=white" />
   </a>
 </p>
+
+
+## 🎮 Play My Game:
+<p align="left">
+  <a href="https://xo-playground.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Play%20Now-ffcc00?style=for-the-badge&logo=super-mario&logoColor=white" />
+  </a>
+</p>
