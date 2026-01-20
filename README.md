@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/dhruv-sharma1105/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
-  <a href="https://www.instagram.com/officialjerrydhruvsharma/" target="_blank">
+  <a href="https://www.instagram.com/parashardhruv_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://teams.live.com/meet/9390137136991?p=tlvEDCXu0WM9rlABcB" target="_blank">
